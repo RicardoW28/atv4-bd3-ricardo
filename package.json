@@ -1,0 +1,22 @@
+{
+  "name": "chat_mongodb_mysql",
+  "version": "1.0.0",
+  "description": "365 \r qualquer coisa estatica vai parar na public",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/RicardoW28/atv-mongodb-ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victtini/Chat_MongoDB_mysql/issues"
+  },
+  "homepage": "https://github.com/victtini/Chat_MongoDB_mysql#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3",
+    "socket.io": "^4.8.1"
+  }
+}
